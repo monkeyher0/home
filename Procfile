@@ -1,1 +1,1 @@
-#Инструкции
+web: python bot.py
